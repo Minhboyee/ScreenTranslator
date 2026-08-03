@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Translator.App.WinUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Translator.App.WinUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

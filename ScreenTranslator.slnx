@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Translator.Core/Translator.Core.csproj" />
+    <Project Path="src/Translator.App.WinUI/Translator.App.WinUI.csproj" />
+    <Project Path="src/Translator.Providers.OpenAICompatible/Translator.Providers.OpenAICompatible.csproj" />
+    <Project Path="src/Translator.Windows/Translator.Windows.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Translator.Core.Tests/Translator.Core.Tests.csproj" />
+    <Project Path="tests/Translator.Providers.OpenAICompatible.Tests/Translator.Providers.OpenAICompatible.Tests.csproj" />
+    <Project Path="tests/Translator.Windows.Tests/Translator.Windows.Tests.csproj" />
+  </Folder>
+</Solution>

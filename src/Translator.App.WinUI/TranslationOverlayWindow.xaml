@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Window x:Class="Translator_App_WinUI.TranslationOverlayWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="">
+    <Canvas x:Name="LineCanvas" IsHitTestVisible="False" Background="Transparent" />
+</Window>

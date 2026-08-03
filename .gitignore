@@ -1,0 +1,49 @@
+# Existing local work notes
+.slim/deepwork/
+
+# Visual Studio and .NET build output
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pubxml.user
+
+# Coverage and test artifacts
+coverage/
+coverage*.json
+*.trx
+
+# NuGet and local package artifacts
+packages/
+*.nupkg
+*.snupkg
+
+# WinUI/MSIX generated artifacts
+AppPackages/
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+*.appinstaller
+*.cer
+
+# Local secrets and signing material
+.env
+.env.*
+!.env.example
+.secrets/
+secrets/
+*.secret
+*.secrets.json
+*.pfx
+*.p12
+*.key
+*.pem
